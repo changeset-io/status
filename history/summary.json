@@ -6,14 +6,14 @@
     "slug": "changeset-application",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 416,
-    "timeDay": 540,
-    "timeWeek": 462,
-    "timeMonth": 473,
+    "timeDay": 448,
+    "timeWeek": 479,
+    "timeMonth": 474,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2023-05-03": 3
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 427,
-    "timeWeek": 381,
-    "timeMonth": 421,
-    "timeYear": 382,
+    "time": 383,
+    "timeDay": 475,
+    "timeWeek": 402,
+    "timeMonth": 423,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   }
 ]
