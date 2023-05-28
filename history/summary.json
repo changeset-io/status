@@ -24,7 +24,7 @@
     "url": "https://docs.changeset.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.changeset.io.ico",
     "slug": "changeset-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 386,
     "timeMonth": 399,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   }
 ]
