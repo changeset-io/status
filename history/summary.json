@@ -11,9 +11,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 410,
-    "timeDay": 274,
-    "timeWeek": 422,
-    "timeMonth": 403,
+    "timeDay": 465,
+    "timeWeek": 439,
+    "timeMonth": 406,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2023-05-03": 3
@@ -26,17 +26,15 @@
     "slug": "changeset-documentation",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 349,
-    "timeWeek": 402,
+    "timeDay": 452,
+    "timeWeek": 405,
     "timeMonth": 403,
     "timeYear": 386,
-    "dailyMinutesDown": {
-      "2023-05-28": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
