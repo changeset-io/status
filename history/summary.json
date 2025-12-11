@@ -4,7 +4,7 @@
     "url": "https://changeset.io",
     "icon": "https://icons.duckduckgo.com/ip3/changeset.io.ico",
     "slug": "changeset-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "96.71%",
     "uptimeWeek": "97.83%",
@@ -14,7 +14,7 @@
     "timeDay": 12490,
     "timeWeek": 3031,
     "timeMonth": 3082,
-    "timeYear": 1791,
+    "timeYear": 1788,
     "dailyMinutesDown": {
       "2025-12-11": 47,
       "2025-12-10": 16,
