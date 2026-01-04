@@ -6,17 +6,16 @@
     "slug": "changeset-application",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.41%",
     "time": 1681,
-    "timeDay": 1605,
-    "timeWeek": 758,
-    "timeMonth": 2792,
+    "timeDay": 458,
+    "timeWeek": 770,
+    "timeMonth": 2821,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2026-01-03": 10,
       "2026-01-02": 34,
       "2026-01-01": 41,
       "2025-12-31": 31,
@@ -86,7 +85,8 @@
       "2025-07-06": 18,
       "2025-07-05": 33,
       "2025-07-02": 27,
-      "2025-07-01": 22
+      "2025-07-01": 22,
+      "2025-06-27": 19
     }
   },
   {
@@ -100,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 391,
-    "timeDay": 660,
-    "timeWeek": 496,
-    "timeMonth": 371,
+    "time": 390,
+    "timeDay": 175,
+    "timeWeek": 468,
+    "timeMonth": 358,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2025-12-05": 32
