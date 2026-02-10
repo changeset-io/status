@@ -4,18 +4,19 @@
     "url": "https://changeset.io",
     "icon": "https://icons.duckduckgo.com/ip3/changeset.io.ico",
     "slug": "changeset-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "95.58%",
+    "uptimeDay": "95.57%",
     "uptimeWeek": "94.91%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "99.33%",
-    "time": 2263,
+    "uptimeYear": "99.34%",
+    "time": 2017,
     "timeDay": 17456,
     "timeWeek": 6183,
     "timeMonth": 5156,
     "timeYear": 2592,
     "dailyMinutesDown": {
+      "2026-02-10": 0,
       "2026-02-09": 64,
       "2026-02-08": 29,
       "2026-02-07": 24,
@@ -74,8 +75,7 @@
       "2025-11-12": 17,
       "2025-11-11": 26,
       "2025-11-10": 20,
-      "2025-11-06": 26,
-      "2025-11-05": 20
+      "2025-11-06": 26
     }
   },
   {
